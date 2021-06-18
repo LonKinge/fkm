@@ -95,10 +95,10 @@ a{
 	display: block;
 }
 #donateBox #PayPal {
-	background-image: url(images/paypal.svg);
+	background-image: url(https://raw.githubusercontent.com/LonKinge/fkm/bd8ecc3ef813d4d90141727a7c295a08de59afb9/sponsor-page-master/simple/images/paypal.svg);
 }
 #donateBox>#BTC {
-	background-image: url(images/bitcoin.svg);
+	background-image: url(https://raw.githubusercontent.com/LonKinge/fkm/bd8ecc3ef813d4d90141727a7c295a08de59afb9/sponsor-page-master/simple/images/bitcoin.svg);
 	line-height: 28px;
 }
 #donateBox>#BTC:hover {
@@ -109,10 +109,10 @@ a{
 	cursor: pointer;
 }
 #donateBox #AliPay {
-	background-image: url(images/alipay.svg);
+	background-image: url(https://raw.githubusercontent.com/LonKinge/fkm/bd8ecc3ef813d4d90141727a7c295a08de59afb9/sponsor-page-master/simple/images/alipay.svg);
 }
 #donateBox #WeChat {
-	background-image: url(images/wechat.svg);
+	background-image: url(https://raw.githubusercontent.com/LonKinge/fkm/bd8ecc3ef813d4d90141727a7c295a08de59afb9/sponsor-page-master/simple/images/wechat.svg);
 }
 #QRBox {
 	top: 0;
